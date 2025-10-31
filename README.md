@@ -1,6 +1,5 @@
 # MyWallet
 
-A new Flutter project.
 ## 📸 App Screenshots
 
 <p align="center">
